@@ -1,7 +1,8 @@
-#Gateway Middleware
+## MultiSensor Gateway Middleware
 
-	This project will include middleware solution which would be running on the Gateway Hardware. This will include all the high level Details:
+This project will include middleware solution which would be running on the Gateway Hardware. This will include all the high level Details:
 ## Supported Hardware
+- Raspberry Pi 2 & 3
 - Dell Gateway
 ## How to Install
 1. Install node and dependent libraries, test the bluetooth hardware for BLE functionality
