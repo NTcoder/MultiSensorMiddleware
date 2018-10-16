@@ -1,0 +1,1 @@
+forever -p C:\Users\intel\Desktop\gateway-middleware -l forever.log -a start main.js
