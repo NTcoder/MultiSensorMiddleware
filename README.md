@@ -1,4 +1,5 @@
-#Gateway Middleware:
+#Gateway Middleware
+
 	This project will include middleware solution which would be running on the Gateway Hardware. This will include all the high level Details:
 ## Supported Hardware
 - Dell Gateway
